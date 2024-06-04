@@ -46,7 +46,7 @@ export default function Login() {
     return (
         <>
             <Head>
-                <title>Login Kas - MWD Course</title>
+                <title>Login My Cash</title>
             </Head>
             <div className="bg-grey">
                 <div className="container">
@@ -62,7 +62,7 @@ export default function Login() {
                                 <div className="card-body">
                                     <div className="text-center">
                                         <h6 className="fw-bold">
-                                            LOGIN KAS - KU
+                                            LOGIN My Cash
                                         </h6>
                                         <hr />
                                     </div>
